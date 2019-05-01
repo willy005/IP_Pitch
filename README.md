@@ -34,14 +34,6 @@ This project helps people manage their time by enabling them to create and manag
 
 No known errors. However, if found, contact me here 
 
-## Technologies used
-
-    - Python 3
-    - HTML
-    - Bootstrap
-    - Flask
-    - Pycharm
-    
 
 ## Versioning
 Used GIT and GitHub. There are commits attached to the entire project to show the management of versions.
@@ -50,6 +42,8 @@ Used GIT and GitHub. There are commits attached to the entire project to show th
 
  Cyprian Munene, any other contributor after the completion of the work can be viewed at this GitHub repository
 
+## Contacts
+Email nillyw31@gmail.com
 
 ## Copyright
 
