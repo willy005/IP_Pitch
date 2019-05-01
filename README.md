@@ -30,7 +30,9 @@ This project helps people manage their time by enabling them to create and manag
     - Install python 3
     - Run "./start.sh" or "python3 manage.py server" from the terminal
 
+## Known bugs
 
+No known errors. However, if found, contact me here 
 
 ## Technologies used
 
