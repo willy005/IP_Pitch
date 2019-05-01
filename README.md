@@ -50,7 +50,6 @@ Used GIT and GitHub. There are commits attached to the entire project to show th
 
 ## Copyright
 
-All Rights Reserved by [@MercurialMune](https://github.com/MercurialMune)
 Other GitHub can however fork or clone this repository provided the necessary credit is given to the original author
 ## License
 
