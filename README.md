@@ -3,7 +3,7 @@
 
 ## Description
 
-This project helps people manage their time by enabling them to create and manage one-minute pitches
+This project helps people manage their time by enabling them to create and manage a one-minute pitches
 
 ## Specifications
 
