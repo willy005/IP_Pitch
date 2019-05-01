@@ -50,8 +50,7 @@ Used GIT and GitHub. There are commits attached to the entire project to show th
 
  Cyprian Munene, any other contributor after the completion of the work can be viewed at this GitHub repository
 
-## Contacts
-Email nillyw31@gmail.com
+
 ## Copyright
 
 All Rights Reserved by {Wilfred Mutura}
