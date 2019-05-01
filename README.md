@@ -1,6 +1,5 @@
 # Pitch Perfect
 
-### a web app that organizes people's lives
 
 ## Description
 
