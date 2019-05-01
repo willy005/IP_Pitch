@@ -54,4 +54,4 @@ All Rights Reserved by {Wilfred Mutura}
 Other GitHub can however fork or clone this repository provided the necessary credit is given to the original author
 ## License
 
-This project is licensed under the MIT License. Moringa School moreover retains certain rights to elements in the code of this program.
+This project is licensed under the MIT License.
